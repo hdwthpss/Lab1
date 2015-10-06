@@ -1,0 +1,10 @@
+NET "in[1]" LOC = T1;
+NET "in[0]" LOC = P2;
+
+NET "en" LOC = M3;
+
+
+NET "d[3]" LOC = H5;
+NET "d[2]" LOC = H6;
+NET "d[1]" LOC = F1;
+NET "d[0]" LOC = F2;

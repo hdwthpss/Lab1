@@ -1,0 +1,20 @@
+NET "a_in[3]" LOC = T1;
+NET "a_in[2]" LOC = P2;
+NET "a_in[1]" LOC = P1;
+NET "a_in[0]" LOC = N2;
+
+NET "b_in[3]" LOC = N1;
+NET "b_in[2]" LOC = M3;
+NET "b_in[1]" LOC = M1;
+NET "b_in[0]" LOC = L2;
+
+NET "s_out[4]" LOC = H4;
+NET "s_out[3]" LOC = K5;
+NET "s_out[2]" LOC = L5;
+NET "s_out[1]" LOC = K3;
+NET "s_out[0]" LOC = K4;
+
+NET "c_out" LOC = H5;
+NET "c_in" LOC = N3;
+
+
